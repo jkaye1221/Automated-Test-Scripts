@@ -1,0 +1,29 @@
+{
+  "name": "AmznSkillAutomation.js",
+  "version": "1.0.0",
+  "description": "Skill for Hue",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "async": "^2.1.5",
+    "bespoken-tools": "^0.9.27",
+    "ffi": "^2.2.0",
+    "i18n": "^0.8.3",
+    "install": "^0.8.7",
+    "jshint": "^2.9.4",
+    "npm": "^4.2.0",
+    "ref": "^1.3.3",
+    "step": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "es6-promise": "^4.0.5",
+    "mocha": "^3.2.0",
+    "node-hue-api": "^2.4.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "MIT"
+}
